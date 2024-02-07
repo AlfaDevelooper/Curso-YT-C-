@@ -1,0 +1,7 @@
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\bin\Debug\MultitareaPrueba.exe.config
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\bin\Debug\MultitareaPrueba.exe
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\bin\Debug\MultitareaPrueba.pdb
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\obj\Debug\MultitareaPrueba.csproj.AssemblyReference.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\obj\Debug\MultitareaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\obj\Debug\MultitareaPrueba.exe
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\MultitareaPrueba\MultitareaPrueba\obj\Debug\MultitareaPrueba.pdb

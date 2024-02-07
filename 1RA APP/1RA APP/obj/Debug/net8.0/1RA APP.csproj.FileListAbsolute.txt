@@ -1,0 +1,14 @@
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\bin\Debug\net8.0\1RA APP.exe
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\bin\Debug\net8.0\1RA APP.deps.json
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\bin\Debug\net8.0\1RA APP.runtimeconfig.json
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\bin\Debug\net8.0\1RA APP.dll
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\bin\Debug\net8.0\1RA APP.pdb
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.AssemblyInfoInputs.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.AssemblyInfo.cs
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.csproj.CoreCompileInputs.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.dll
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\refint\1RA APP.dll
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.pdb
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\1RA APP.genruntimeconfig.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\1RA APP\1RA APP\obj\Debug\net8.0\ref\1RA APP.dll

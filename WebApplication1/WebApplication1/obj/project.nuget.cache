@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sd+Q0qlyc39TeXv4KwGfcbhqZmp3fYtJZbfHM6Winvq6UGMJaF1vw3FoE0UGOB62Q1U3vMGSF5QXe5cdQU1L3A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alfar\\Desktop\\Programacion\\C#\\CURSO YUTU\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No existe ningún paquete con este id. en los orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

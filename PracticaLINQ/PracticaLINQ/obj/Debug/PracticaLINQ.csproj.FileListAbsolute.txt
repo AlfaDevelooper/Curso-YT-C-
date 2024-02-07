@@ -1,0 +1,7 @@
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\obj\Debug\PracticaLINQ.csproj.AssemblyReference.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\obj\Debug\PracticaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\bin\Debug\PracticaLINQ.exe.config
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\bin\Debug\PracticaLINQ.exe
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\bin\Debug\PracticaLINQ.pdb
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\obj\Debug\PracticaLINQ.exe
+C:\Users\alfar\Desktop\Programacion\C#\CURSO YUTU\PracticaLINQ\PracticaLINQ\obj\Debug\PracticaLINQ.pdb
